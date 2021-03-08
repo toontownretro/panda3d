@@ -1,0 +1,18 @@
+[submodule "ppremake"]
+	path = ppremake
+	url = https://github.com/toontownretro/ppremake
+[submodule "dtool"]
+	path = dtool
+	url = https://github.com/toontownretro/dtool
+[submodule "panda"]
+	path = panda
+	url = https://github.com/toontownretro/panda
+[submodule "pandatool"]
+	path = pandatool
+	url = https://github.com/toontownretro/pandatool
+[submodule "dmodels"]
+	path = dmodels
+	url = https://github.com/toontownretro/dmodels
+[submodule "direct"]
+	path = direct
+	url = https://github.com/toontownretro/direct
